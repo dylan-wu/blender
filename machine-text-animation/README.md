@@ -1,3 +1,3 @@
 # Machine Text Animation
 
-![](photo trial)
+![](photo-trial.png)
